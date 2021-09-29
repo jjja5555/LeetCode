@@ -1,1 +1,7 @@
 # LeetCode
+
+##String
+
+##Arrays
+
+##LinkedList
